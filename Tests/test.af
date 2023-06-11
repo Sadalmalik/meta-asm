@@ -1,0 +1,14 @@
+
+
+
+0x4D
+
+: SQR dup * ;
+
+5 SQR print
+
+"test-1 A" print
+"q/test-2.af" include
+"test-1 B" print
+
+print

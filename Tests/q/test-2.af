@@ -1,0 +1,3 @@
+"test-2 A" print
+"t/test-3.af" include
+"test-2 B" print
